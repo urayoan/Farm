@@ -63,459 +63,444 @@ Chapter 1
 
 Third Party Software in CoprHD 2.3 Beta
 This chapter provides a list of third party software for CoprHD 2.3 Beta .
-	Third Party software included with CoprHD 2.3 Beta……………….……………	4
-	Open source licenses	13
+Third Party software included with CoprHD 2.3 Beta……………….……………	4
+•	Open source licenses	13
  
 Open Source Software Title	Open Source License
-Antlr 2.7.7	ANTLR license
-Antrl 3.2	BSD style license
-AOP Alliance 1	Public Domain
-Apache Commons CLI 1.1	Apache License 2.0
-Apache Commons Codec 1.2	Apache License 2.0
-Apache commons http client 3.1	Apache License 2.0
-Apache Commons Lang 2.4	Apache License 2.0
-Apache Commons Logging 1.1.1	Apache License 2.0
-Apache commons-pool 1.5.4	Apache License 2.0 Apache Geronimo Specs - Geronimo Stax-Api 1.0 Spec
-1.0.1	Apache License 2.0
-Apache HTTP Components - HttpClient 4.0.3	Apache License 2.0
-Apache HTTP Components - HttpCore 4.0.1	Apache License 2.0
-Apache log4j 1.2.1.6	Apache License 2.0
-Apache Thrift 0.6	Apache License 2.0
-Apache Zookeeper 3.4.5	Apache License 2.0
-apache2 2.2.12	Apache License 2.0
-apache2-mod_php5 5.2.14	The PHP License, version 3.1
-apache2-mod_php5 5.2.14	The PHP License, version 3.1
-apache2-prefork 2.2.12	Apache License 2.0
-apache2-utils 2.2.12	Apache License 2.0
-ASM 3.1	MIT License
-aspectj 1.7.0	Eclipse Public License 1.0
-aspectjweaver 1.6.10	Eclipse Public License 1.0
-Avro 1.4	Apache License 2.0
-Axis2 1.5.2	Apache License 2.0
-activation 1.5.2	CDDL 1.0
-antlr 2.7.7	ANTLR license
-axiom-api 1.2.9	Apache License 2.0
-axiom-dom 1.2.9	Apache License 2.0
-axiom-impl 1.2.9	Apache License 2.0
-axis2-adb 1.5.2	Apache License 2.0
-axis2-adb-codegen 1.5.2	Apache License 2.0
-axis2-codegen 1.5.2	Apache License 2.0
-axis2-corba 1.5.2	Apache License 2.0
-axis2-fastinfoset 1.5.2	Apache License 2.0
-axis2-java2wsdl 1.5.2	Apache License 2.0
-axis2-jaxbri 1.5.2	Apache License 2.0
-axis2-jaxws 1.5.2	Apache License 2.0
-axis2-jibx 1.5.2	Apache License 2.0
-axis2-json 1.5.2	Apache License 2.0
- 
-axis2-kernel 1.5.2	Apache License 2.0
 
-
-
-
-
-
-axis2-transport-http 1.5.2	Apache License 2.0
-
-axis2-transport-local  1.5.2	Apache License 2.0
-axis2-xmlbeans	1.5.2	Apache License 2.0
-bcel	5.1	Apache Software License 1.1
-commons-codec	1.3	Apache License 2.0
-commons-fileupload 1.2	Apache License 2.0
-commons-httpclient 3.1	Apache License 2.0
-commons-io 1.4	Apache License 2.0
-commons-logging 1.1.1	Apache License 2.0
-geronimo-annotation 1	Apache License 2.0
-geronimo-jaxws	2.1	Apache License 2.0
-geronimo-jta	1.1	Apache License 2.0
-geronimo-saaj	1.3	Apache License 2.0
-geronimo-stax-api  1	Apache License 2.0
-geronimo-ws-metadata  2	Apache License 2.0
-httpcore	4	Apache License 2.0
-jaxb-api	2.1	CDDL 1.0
-jaxb-impl	2.1.7	CDDL 1.0
-jaxen	1.1.1	Jaxen License
-jersey-client	1.12	GPL 2.0
-jersey-core	1.12	GPL 2.0
-jettison-1.0-RC2.jar	Apache License 2.0
-jibx-bind-1.2.1.jar	BSD Style License
-jibx-run-1.2.1.jar	BSD Style License
-log4j-1.2.15.jar	Apache License 2.0
-mail-1.4.jar	CDDL 1.0
-mex-1.5.2-impl.jar	Apache License 2.0
-neethi-2.0.4.jar	Apache License 2.0
-woden-api-1.0M8.jar	Apache License 2.0
-woden-impl-dom-1.0M8.jar	Apache License 2.0
-wsdl4j-1.6.2.jar	Apache License 2.0
-wstx-asl-3.2.9.jar	Apache License 2.0
-xalan-2.7.0.jar	Apache License 2.0
-xmlbeans-2.3.0.jar	Apache License 2.0
-xml-resolver-1.2.jar	Apache License 2.0
-XmlSchema-1.4.3.jar	Apache License 2.0
-xis2-metadata-1.5.2.jar	Apache License 2.0
-bind-libs-9.6ESVR7P1-0.2.5.1	BSD 3-Clause; X11/MIT
-bind-libs-9.9.3P2-0.5.1	BSD 3-Clause; X11/MIT
-bind-utils-9.6ESVR7P1-0.2.5.1	BSD 3-Clause; X11/MIT
-bind-utils-9.9.3P2-0.5.1	BSD 3-Clause; X11/MIT
-Boost dependency: libicu	ICU License
-Boost regex 1.34.1	Boost license
-boost-license-1.36.0-12.3.1	BSD 3-Clause
+- Antlr 2.7.7	ANTLR license
+- Antrl 3.2	BSD style license
+- AOP Alliance 1	Public Domain
+- Apache Commons CLI 1.1	Apache License 2.0
+- Apache Commons Codec 1.2	Apache License 2.0
+- Apache commons http client 3.1	Apache License 2.0
+- Apache Commons Lang 2.4	Apache License 2.0
+- Apache Commons Logging 1.1.1	Apache License 2.0
+- Apache commons-pool 1.5.4	Apache License 2.0 Apache Geronimo Specs - Geronimo Stax-Api 1.0 Spec 1.0.1	A Apache License 2.0
+- Apache HTTP Components - HttpClient 4.0.3	Apache License 2.0
+- Apache HTTP Components - HttpCore 4.0.1	Apache License 2.0
+- Apache log4j 1.2.1.6	Apache License 2.0
+- Apache Thrift 0.6	Apache License 2.0
+- Apache Zookeeper 3.4.5	Apache License 2.0
+- apache2 2.2.12	Apache License 2.0
+- apache2-mod_php5 5.2.14	The PHP License, version 3.1
+- apache2-mod_php5 5.2.14	The PHP License, version 3.1
+- apache2-prefork 2.2.12	Apache License 2.0
+- apache2-utils 2.2.12	Apache License 2.0
+- ASM 3.1	MIT License
+- aspectj 1.7.0	Eclipse Public License 1.0
+- aspectjweaver 1.6.10	Eclipse Public License 1.0
+- Avro 1.4	Apache License 2.0
+- Axis2 1.5.2	Apache License 2.0
+- activation 1.5.2	CDDL 1.0
+- antlr 2.7.7	ANTLR license
+- axiom-api 1.2.9	Apache License 2.0
+- axiom-dom 1.2.9	Apache License 2.0
+- axiom-impl 1.2.9	Apache License 2.0
+- axis2-adb 1.5.2	Apache License 2.0
+- axis2-adb-codegen 1.5.2	Apache License 2.0
+- axis2-codegen 1.5.2	Apache License 2.0
+- axis2-corba 1.5.2	Apache License 2.0
+- axis2-fastinfoset 1.5.2	Apache License 2.0
+- axis2-java2wsdl 1.5.2	Apache License 2.0
+- axis2-jaxbri 1.5.2	Apache License 2.0
+- axis2-jaxws 1.5.2	Apache License 2.0
+- axis2-jibx 1.5.2	Apache License 2.0
+- axis2-json 1.5.2	Apache License 2.0
+- axis2-kernel 1.5.2	Apache License 2.0
+- axis2-transport-http 1.5.2	Apache License 2.0
+- axis2-transport-local  1.5.2	Apache License 2.0
+- axis2-xmlbeans	1.5.2	Apache License 2.0
+- bcel	5.1	Apache Software License 1.1
+- commons-codec	1.3	Apache License 2.0
+- commons-fileupload 1.2	Apache License 2.0
+- commons-httpclient 3.1	Apache License 2.0
+- commons-io 1.4	Apache License 2.0
+- commons-logging 1.1.1	Apache License 2.0
+- geronimo-annotation 1	Apache License 2.0
+- geronimo-jaxws	2.1	Apache License 2.0
+- geronimo-jta	1.1	Apache License 2.0
+- geronimo-saaj	1.3	Apache License 2.0
+- geronimo-stax-api  1	Apache License 2.0
+- geronimo-ws-metadata  2	Apache License 2.0
+- httpcore	4	Apache License 2.0
+- jaxb-api	2.1	CDDL 1.0
+- jaxb-impl	2.1.7	CDDL 1.0
+- jaxen	1.1.1	Jaxen License
+- jersey-client	1.12	GPL 2.0
+- jersey-core	1.12	GPL 2.0
+- jettison-1.0-RC2.jar	Apache License 2.0
+- jibx-bind-1.2.1.jar	BSD Style License
+- jibx-run-1.2.1.jar	BSD Style License
+- log4j-1.2.15.jar	Apache License 2.0
+- mail-1.4.jar	CDDL 1.0
+- mex-1.5.2-impl.jar	Apache License 2.0
+- neethi-2.0.4.jar	Apache License 2.0
+- woden-api-1.0M8.jar	Apache License 2.0
+- woden-impl-dom-1.0M8.jar	Apache License 2.0
+- wsdl4j-1.6.2.jar	Apache License 2.0
+- wstx-asl-3.2.9.jar	Apache License 2.0
+- xalan-2.7.0.jar	Apache License 2.0
+- xmlbeans-2.3.0.jar	Apache License 2.0
+- xml-resolver-1.2.jar	Apache License 2.0
+- XmlSchema-1.4.3.jar	Apache License 2.0
+- xis2-metadata-1.5.2.jar	Apache License 2.0
+- bind-libs-9.6ESVR7P1-0.2.5.1	BSD 3-Clause; X11/MIT
+- bind-libs-9.9.3P2-0.5.1	BSD 3-Clause; X11/MIT
+- bind-utils-9.6ESVR7P1-0.2.5.1	BSD 3-Clause; X11/MIT
+- bind-utils-9.9.3P2-0.5.1	BSD 3-Clause; X11/MIT
+- Boost dependency: libicu	ICU License
+- Boost regex 1.34.1	Boost license
+- boost-license-1.36.0-12.3.1	BSD 3-Clause
  
 
-Bootstrap -2.3.1	Apache License 2.0
-Bootstrap Form Helpers-1.8.2	Apache License 2.0
-cglib 2.2	Apache License 2.0
-cglib-2.1_3	Apache License 2.0
-Chosen-0.9.8	MIT
+- Bootstrap -2.3.1	Apache License 2.0
+- Bootstrap Form Helpers-1.8.2	Apache License 2.0
+- cglib 2.2	Apache License 2.0
+- cglib-2.1_3	Apache License 2.0
+- Chosen-0.9.8	MIT
 
-clamav-0.97.5-0.2.1	GPL 2.0
-Codehaus Groovy - Groovy-All-1.5.6	Apache License 2.0
-Commons Codec 1.4-1.4	Apache License 2.0
-Commons Collections 3.1-3.1	Apache License 2.0
-Commons Collections 3.2.1	Apache License 2.0
-Commons IO 2.0-2	Apache License 2.0
-Commons Jexl-1.1	Apache License 2.0
-Commons Lang 2.4	Apache License 2.0
-Commons Lang 2.5-2.5	Apache License 2.0
-commons-beanutils-1.8.3	Apache License 2.0
-commons-beanutils-core-1.8.0	Apache License 2.0
-commons-codec-1.7	Apache License 2.0
-commons-collections-3.2.1	Apache License 2.0
-commons-compress-1.4.1	Apache License 2.0
-commons-configuration-1.6	Apache License 2.0
-commons-dbcp-1.2.2	Apache License 2.0
-commons-digester-1.8	Apache License 2.0
-commons-discovery-0.4	Apache License 2.0
-commons-el-1.0.jar (embedded in jsp-2.0)	Apache License 2.0
-commons-pool-1.3	Apache License 2.0
-Compress lzf-0.8.4	Apache License 2.0
+- clamav-0.97.5-0.2.1	GPL 2.0
+- Codehaus Groovy - Groovy-All-1.5.6	Apache License 2.0
+- Commons Codec 1.4-1.4	Apache License 2.0
+- Commons Collections 3.1-3.1	Apache License 2.0
+- Commons Collections 3.2.1	Apache License 2.0
+- Commons IO 2.0-2	Apache License 2.0
+- Commons Jexl-1.1	Apache License 2.0
+- Commons Lang 2.4	Apache License 2.0
+- Commons Lang 2.5-2.5	Apache License 2.0
+- commons-beanutils-1.8.3	Apache License 2.0
+- commons-beanutils-core-1.8.0	Apache License 2.0
+- commons-codec-1.7	Apache License 2.0
+- commons-collections-3.2.1	Apache License 2.0
+- commons-compress-1.4.1	Apache License 2.0
+- commons-configuration-1.6	Apache License 2.0
+- commons-dbcp-1.2.2	Apache License 2.0
+- commons-digester-1.8	Apache License 2.0
+- commons-discovery-0.4	Apache License 2.0
+- commons-el-1.0.jar (embedded in jsp-2.0)	Apache License 2.0
+- commons-pool-1.3	Apache License 2.0
+- Compress lzf-0.8.4	Apache License 2.0
 
-Concurrent and Highly Scalable Utilities 1.1.2	Creative Commons Attribution- ShareAlike 3.0 Unported License.
-Concurrent Linked Hashamap 1.2	Apache License 2.0
-Concurrentlinkedhashmap-lru-1.3
-cql-internal-only-1.4.0.zip (dependency on Cassandra	Apache License 2.0
+- Concurrent and Highly Scalable Utilities 1.1.2	Creative Commons Attribution- ShareAlike 3.0 Unported License.
+- Concurrent Linked Hashamap 1.2	Apache License 2.0
+- Concurrentlinkedhashmap-lru-1.3
+- cql-internal-only-1.4.0.zip (dependency on Cassandra	Apache License 2.0
 1.2.3)	Apache License 2.0
-CST 3.1 embedded open source: Getopts.c 20010111	Modified BSD License (3 clause)
-CST 3.1 embedded open source: libcurl 7.21.4	Lib Curl License
-CST 3.1 embedded open source: Libxml2 2.7.8	MIT License
+- CST 3.1 embedded open source: Getopts.c 20010111	Modified BSD License (3 clause)
+- CST 3.1 embedded open source: libcurl 7.21.4	Lib Curl License
+- CST 3.1 embedded open source: Libxml2 2.7.8	MIT License
 
-CST 3.1 embedded open source: Open LDAP 2.3.33 CST 3.1 embedded open source: xmldsig-core-	OpenLDAP Public License, Version 2.8, 17 August 2003
-schema.xsd 1.1	W3C Software Notice and License
-Deadbolt-1.5.3	Apache License 2.0
-dhcpcd-3.2.3-44.30.1	GPL 2.0
-dom4j 1.6.1	BSD
-Dom4J 1.6.1-1.6.1	BSD
-dom4j-1.6.1	BSD Style
-dotdotdot-1.5.1	MIT
-EAIO UUID 3.2.0	MIT License
-Ehcache version 1.6	Apache License 2.0
-Ehcache version 2.5.1	Apache License 2.0
+- CST 3.1 embedded open source: Open LDAP 2.3.33 CST 3.1 embedded open source: xmldsig-core-	OpenLDAP Public License, Version 2.8, 17 August 2003
+- schema.xsd 1.1	W3C Software Notice and License
+- Deadbolt-1.5.3	Apache License 2.0
+- dhcpcd-3.2.3-44.30.1	GPL 2.0
+- dom4j 1.6.1	BSD
+- Dom4J 1.6.1-1.6.1	BSD
+- dom4j-1.6.1	BSD Style
+- dotdotdot-1.5.1	MIT
+- EAIO UUID 3.2.0	MIT License
+- Ehcache version 1.6	Apache License 2.0
+- Ehcache version 2.5.1	Apache License 2.0
  
 
-Eric Young's libdes 4.01	Eric Young's license
-Extended WPF Toolkit - Commuity Edition 2.0.0	Ms-PL
-Fast Infosets 1.2.2	Apache License 2.0
-FullCalender-1.5.3	MIT
-Geronimo framework 2.1.6	Apache License 2.0
-gevent-0.13.7	MIT License
-glibc-2.11.3-17.45.45.1.5468.0.PTF.818628	BSD 3-Clause
-glibc-locale-2.11.3-17.45.45.1.5468.0.PTF.818628	GPL 2.0
-Google Protocol Buffers Version 2.4.1	BSD style license
-Graphwalker (version 2.5.16)	MIT license
-greenlet-0.3.1	MIT License
-Grequests 0.1.0	BSD License
-GRequests-0.1.0	BSD License
-Groovy (version 1.8.6)	Apache License 2.0
-Gson 2.1	Apache License 2.0
-Guava 10.0.1	Apache License 2.0
+- Eric Young's libdes 4.01	Eric Young's license
+- Extended WPF Toolkit - Commuity Edition 2.0.0	Ms-PL
+- Fast Infosets 1.2.2	Apache License 2.0
+- FullCalender-1.5.3	MIT
+- Geronimo framework 2.1.6	Apache License 2.0
+- gevent-0.13.7	MIT License
+- glibc-2.11.3-17.45.45.1.5468.0.PTF.818628	BSD 3-Clause
+- glibc-locale-2.11.3-17.45.45.1.5468.0.PTF.818628	GPL 2.0
+- Google Protocol Buffers Version 2.4.1	BSD style license
+- Graphwalker (version 2.5.16)	MIT license
+- greenlet-0.3.1	MIT License
+- Grequests 0.1.0	BSD License
+- GRequests-0.1.0	BSD License
+- Groovy (version 1.8.6)	Apache License 2.0
+- Gson 2.1	Apache License 2.0
+- Guava 10.0.1	Apache License 2.0
 
-Guava 13.0.1	
-Apache License 2.0
-hamcrest 1.3	BSD License
-Hector 1.0.2	MIT license
-hibernate-commons-annotations-4.0.1	LGPL 2.1
-hibernate-core-4.1.0	LGPL 2.1
-hibernate-jpa-2.0-api-1.0.1	Eclipse Public License 1.0
-hibernate-validator-4.2.0	Apache License 2.0
-Http builder (version 0.5.2)	Apache License 2.0
-httpclient-4.2.2	Apache License 2.0
-HTTPCore 4.2.3	Apache License 2.0
-httpcore-4.2.2	Apache License 2.0
-HttpHeadersMoreModule  v0.22	BSD style license
-inspektr-1.0.7.GA	Apache License 2.0
-inspektr-1.0.7.GA	Apache License 2.0
-inspektr-1.0.7.GA	Apache License 2.0
-inspektr-1.0.7.GA	Apache License 2.0
-IntelliJ IDEA (Community edition version 11.1)	Apache License 2.0
-Jackson 1.4.0	Apache License 2.0
-Jackson 2.1.4	Apache License 2.0
-Jackson-annotations  2.1.4	Apache License 2.0
-Jackson-core 2.1.4
-jackson-core-asl-1.9.2.jar (dependency on Cassandra	Apache License 2.0
+- Guava 13.0.1	Apache License 2.0
+- hamcrest 1.3	BSD License
+- Hector 1.0.2	MIT license
+- hibernate-commons-annotations-4.0.1	LGPL 2.1
+- hibernate-core-4.1.0	LGPL 2.1
+- hibernate-jpa-2.0-api-1.0.1	Eclipse Public License 1.0
+- hibernate-validator-4.2.0	Apache License 2.0
+- Http builder (version 0.5.2)	Apache License 2.0
+- httpclient-4.2.2	Apache License 2.0
+- HTTPCore 4.2.3	Apache License 2.0
+- httpcore-4.2.2	Apache License 2.0
+- HttpHeadersMoreModule  v0.22	BSD style license
+- inspektr-1.0.7.GA	Apache License 2.0
+- inspektr-1.0.7.GA	Apache License 2.0
+- inspektr-1.0.7.GA	Apache License 2.0
+- inspektr-1.0.7.GA	Apache License 2.0
+- IntelliJ IDEA (Community edition version 11.1)	Apache License 2.0
+- Jackson 1.4.0	Apache License 2.0
+- Jackson 2.1.4	Apache License 2.0
+- Jackson-annotations  2.1.4	Apache License 2.0
+- Jackson-core 2.1.4
+- jackson-core-asl-1.9.2.jar (dependency on Cassandra	Apache License 2.0
 1.2.3)	Apache License 2.0
 
-Jackson-databind 2.1.4	
-Apache License 2.0
-jackson-jaxrs-1.9.2.jar (embedded in jersey-1.12) jackson-
-mapper-asl-1.9.2.jar (dependency on Cassandra	Apache License 2.0
+- Jackson-databind 2.1.4	Apache License 2.0
+- jackson-jaxrs-1.9.2.jar (embedded in jersey-1.12) jackson-
+- mapper-asl-1.9.2.jar (dependency on Cassandra	Apache License 2.0
 1.2.3)	Apache License 2.0
 
-Jamm 0.2.5	
-Apache License 2.0
-jasper-compiler-5.5.15.jar (embedded in jsp-2.0)	Apache License 2.0
-jasper-compiler-jdt-5.5.15.jar (embedded in jsp-2.0)	Apache License 2.0
+- Jamm 0.2.5	Apache License 2.0
+- jasper-compiler-5.5.15.jar (embedded in jsp-2.0)	Apache License 2.0
+- jasper-compiler-jdt-5.5.15.jar (embedded in jsp-2.0)	Apache License 2.0
  
 
-jasper-runtime-5.5.15.jar (embedded in jsp-2.0)	Apache License 2.0
-Java Server Pages Standard Tag Library-1.1.2	CDDL 1.0
-javaassist-3.15.0	LGPL 2.1
-javax.inject-1	Apache License 2.0
-javax.mail.glassfish-1.4.1.v201005082020.jar   (embedded  in
+- jasper-runtime-5.5.15.jar (embedded in jsp-2.0)	Apache License 2.0
+- Java Server Pages Standard Tag Library-1.1.2	CDDL 1.0
+- javaassist-3.15.0	LGPL 2.1
+- javax.inject-1	Apache License 2.0
+- javax.mail.glassfish-1.4.1.v201005082020.jar   (embedded  in
 Jetty 7.6.4)	CDDL 1.0
 
 
-jaxb-impl-2.1.12	CDDL 1.0
-jbcrypt-0.3m.jar (dependency on Cassandra 1.2.3)	ISC/BSD License
-jboss-logging-3.1.0-CR2	LGPL 2.1
-jboss-transaction-api_1.1_spec-1.0.0.	LGPL 2.1
-jcifs-1.3.17	LGPL 2.1
-jd104-over-slf4j-1.3.1.jar (embedded in jsp-2.0)	BSD License
-JDOM-1	JDOM license
-Jersey 1.12	GPL 2.0
-jersey 1.12	CDDL 1.0
-jersey-apache-client4-1.12	CDDL 1.1
-jersey-spring-1.12	CDDL 1.1
-Jettison 1.1	Apache License 2.0
-Jetty 7.6.4	Apache License 2.0
-Jetty  runner-7.5.4v20111024	Apache License 2.0
-Jetty v7.5.4
-Jetty v7.5.4 (dependency on javax.transaction-	Apache License 2.0
+- jaxb-impl-2.1.12	CDDL 1.0
+- jbcrypt-0.3m.jar (dependency on Cassandra 1.2.3)	ISC/BSD License
+- jboss-logging-3.1.0-CR2	LGPL 2.1
+- jboss-transaction-api_1.1_spec-1.0.0.	LGPL 2.1
+- jcifs-1.3.17	LGPL 2.1
+- jd104-over-slf4j-1.3.1.jar (embedded in jsp-2.0)	BSD License
+- JDOM-1	JDOM license
+- Jersey 1.12	GPL 2.0
+- jersey 1.12	CDDL 1.0
+- jersey-apache-client4-1.12	CDDL 1.1
+- jersey-spring-1.12	CDDL 1.1
+- Jettison 1.1	Apache License 2.0
+- Jetty 7.6.4	Apache License 2.0
+- Jetty  runner-7.5.4v20111024	Apache License 2.0
+- Jetty v7.5.4 Jetty v7.5.4 (dependency on javax.transaction-	Apache License 2.0
 1.1.1.v201105210645.jar)
-Jetty v7.5.4 (dependency Javax Servlet JSP > JSTL	Apache License 2.0
-javax.servlet.jsp.jstl-1.2.0.v201105211821.jar	CDDL 1.0
+- Jetty v7.5.4 (dependency Javax Servlet JSP > JSTL	Apache License 2.0
+- javax.servlet.jsp.jstl-1.2.0.v201105211821.jar	CDDL 1.0
 
-Jetty v7.5.4 (dependency ObjectWeb ASM 3.1.0 Jetty v7.5.4 (dependency on Javax Activation>	
+- Jetty v7.5.4 (dependency ObjectWeb ASM 3.1.0 Jetty v7.5.4 (dependency on Javax Activation>	
 Apache License 2.0
-javax.activation-1.1.0.v201105071233.jar
-Jetty v7.5.4 (dependency on Javax EL api javax.el2.1.0.v201105211819.jar and com.sun.el-	Apache License 2.0
+- javax.activation-1.1.0.v201105071233.jar
+- Jetty v7.5.4 (dependency on Javax EL api javax.el2.1.0.v201105211819.jar and com.sun.el-	Apache License 2.0
 1.0.0.v201105211818.jar )
 
 
-Jetty v7.5.4 (dependency on Javax Servlet JSP >	CDDL 1.0
-javax.servlet.jsp-2.1.0.v201105211820.jar Jetty
+- Jetty v7.5.4 (dependency on Javax Servlet JSP >	CDDL 1.0
+- javax.servlet.jsp-2.1.0.v201105211820.jar Jetty
 v7.5.4 (dependency on javax.annotation-	Apache License 2.0
 1.1.0.v201108011116.jar )
-Jetty v7.5.4 (dependency on JDT Core	CDDL 1.0
-org.eclipse.jdt.core-3.7.1.jar	Eclipse Public License 1.0
+- Jetty v7.5.4 (dependency on JDT Core	CDDL 1.0
+- org.eclipse.jdt.core-3.7.1.jar	Eclipse Public License 1.0
 
-JLine 0.9.94	
-BSD style license
-jline-1.0.jar (dependency on Cassandra 1.2.3)	BSD
-JNA-3.5.1	LGPL 2.1
-Joda Time 2.1	Apache License 2.0
-Jquery  DataTables-1.9.1	MIT
-Jquery MS Dropdown-2.38.4	MIT
-Jquery-1.7.2	MIT
-JQuery Knob 1.2.8	MIT
+- JLine 0.9.94	
+- BSD style license
+- jline-1.0.jar (dependency on Cassandra 1.2.3)	BSD
+- JNA-3.5.1	LGPL 2.1
+- Joda Time 2.1	Apache License 2.0
+- Jquery  DataTables-1.9.1	MIT
+- Jquery MS Dropdown-2.38.4	MIT
+- Jquery-1.7.2	MIT
+- JQuery Knob 1.2.8	MIT
  
 
-JSch 0.1.48	BSD style license
-JSON.simple 1.1	Apache License 2.0
-jsp (embedded in Jetty 7.6.4)	Apache License 2.0
-jsr311-api-1.1.1.jar	CDDL 1.0
-keepalived-1.2.7-4	GPL 2.0 kernel-default-2.6.32.59-0.7.1	GPL 2.0
-kernel-default-base-2.6.32.59-0.7.1	GPL 2.0 krb5-1.6.3-133.49.56.1 X11/MIT lambdaj 2.2	Apache License 2.0
-libboost_regex1_36_0-1.36.0-12.3.1	BSD 3-Clause
-libgcrypt11-1.5.0-0.15.2	GPL v2
-libopenssl0_9_8-0.9.8j-0.44.1		BSD 3-Clause libthrift-0.7.0.jar (dependency on Cassandra 1.2.3)		Apache License 2.0 libtiff3-3.8.2-141.148.1	X11/MIT libxml2-2.7.6-0.17.1	X11/MIT libxml2-2.7.6-
-0.23.1	X11/MIT libxml2-python-2.7.6-0.23.1	X11/MIT  libxslt-1.1.24-19.19.1
-GPL 2.0 log4j-1.2.16	Apache License 2.0 log4j-extras-1.1.jar	Apache License 2.0 log4net 1.2.11		Apache License 2.0 lz4-1.1.0.jar (dependency on Cassandra 1.2.3)	Apache License 2.0 metrics-core-2.0.3.jar (dependency on Cassandra 1.2.3)	Apache License 2.0
-Moment-2.1.0	MIT
-mx4j-3.0.1.jar	Apache License 2.0 NcFTP 3.2.0	The Clarified Artistic License Netflix Astyanax 0.8.10	Apache License 2.0 Netflix Astyanax 1.56.34
-Apache License 2.0
-Netflix Astyanax 1.56.43	Apache License 2.0
-Netflix Curator Recipes 1.1.5-1.1.5	Apache License 2.0 Netflix Curator 1.1.3 (Kevin Shaw confirmed they are using
-1.1.3)	Apache License 2.0
+- JSch 0.1.48	BSD style license
+- JSON.simple 1.1	Apache License 2.0
+- jsp (embedded in Jetty 7.6.4)	Apache License 2.0
+- jsr311-api-1.1.1.jar	CDDL 1.0
+- keepalived-1.2.7-4	GPL 2.0 kernel-default-2.6.32.59-0.7.1	GPL 2.0
+- kernel-default-base-2.6.32.59-0.7.1	GPL 2.0 krb5-1.6.3-133.49.56.1 X11/MIT lambdaj 2.2	Apache License 2.0
+- libboost_regex1_36_0-1.36.0-12.3.1	BSD 3-Clause
+- libgcrypt11-1.5.0-0.15.2	GPL v2
+- libopenssl0_9_8-0.9.8j-0.44.1		BSD 3-Clause 
+- libthrift-0.7.0.jar (dependency on Cassandra 1.2.3)		Apache License 2.0 
+- libtiff3-3.8.2-141.148.1	X11/MIT 
+- libxml2-2.7.6-0.17.1	X11/MIT 
+- libxml2-2.7.6-0.23.1	X11/MIT libxml2-python-2.7.6-0.23.1	X11/MIT  
+- libxslt-1.1.24-19.19.1 GPL 2.0 
+- log4j-1.2.16	Apache License 2.0 
+- log4j-extras-1.1.jar	Apache License 2.0 
+- log4net 1.2.11		Apache License 2.0 
+- metrics-core-2.0.3.jar (dependency on Cassandra 1.2.3)	Apache License 2.0
+- Moment-2.1.0	MIT
+- mx4j-3.0.1.jar	Apache License 2.0 
+- Astyanax 0.8.10	Apache License 2.0 
+- Netflix Astyanax 1.56.34Apache License 2.0
+- Netflix Astyanax 1.56.43	Apache License 2.0
+- Netflix Curator Recipes 1.1.5-1.1.5	Apache License 2.0 
+- Netflix Curator 1.1.3 Apache License 2.0
 
 
-Netflix Curator Client 1.1.5-1.1.5  Apache License 2.0 Netflix Curator Framework 1.1.5-1.1.5	Apache License 2.0 Netflix Curator Test 1.1.5-1.1.5	Apache License 2.0 Netflix Curator X Discovery 1.1.5-1.1.5	Apache License 2.0          Netflix Curator X Discovery Server 1.1.5-1.1.5	Apache License 2.0 netflix- curator-1.1.2	Apache License 2.0
-Netty 3.2   Apache License 2.0 netty-3.2.8	Apache License 2.0 netty- 3.5.9.Final.jar (dependency on Cassandra 1.2.3)		Apache License 2.0 nginx-1.5.0-3 (Modified)			BSD-2-Clause
-Ning Compress 0.8.4	Apache License 2.0
-Noelios Restlet Framework 1.1.1 servlet ext-1.1.1	LGPL 2.1 Noelios Restlet Framework 1.1.1 spring ext-1.1.1  LGPL 2.1 Noelios Restlet Framework 1.1.1-1.1.1	LGPL 2.1
-Ntp 4.2.6	MIT
-objenesis 1.3	Apache License 2.0
-OpenSymphony Software License,
-ognl-2.7.3	Version 1.1
-
-
-OpenJPA 2.1.0	Apache License 2.0
-opensaml-1.1b	Apache License 2.0
-openssh-5.1p1-41.57.1	BSD 3-Clause
-OpenSSL 0.9.7a	BSD 3-Clause
- 
-
-openssl-0.9.8j-0.44.1
-org.apache.jasper.glassfish-2.1.0.v201110031002.jar	BSD 3-Clause
+- Netflix Curator Client 1.1.5-1.1.5  Apache License 2.0 
+- Netflix Curator Framework 1.1.5-1.1.5	Apache License 2.0 
+- Netflix Curator Test 1.1.5-1.1.5	 Apache License 2.0
+- Netflix Curator X Discovery Server 1.1.5-1.1.5	Apache License 2.0
+- netflix- curator-1.1.2	Apache License 2.0
+- Netty 3.2   Apache License 2.0 
+- netty-3.2.8	 Apache License 2.0 
+- netty- 3.5.9.Final.jar (dependency on Cassandra 1.2.3)		Apache License 2.0 BSD-2-Clause
+- Ning Compress 0.8.4	Apache License 2.0
+- Noelios Restlet Framework 1.1.1 spring ext-1.1.1  LGPL 2.1 
+- Noelios Restlet Framework 1.1.1-1.1.1	LGPL 2.1
+- Ntp 4.2.6	MIT
+- objenesis 1.3	Apache License 2.0
+- OpenSymphony Software License,
+- ognl-2.7.3	Version 1.1
+- OpenJPA 2.1.0	Apache License 2.0
+- opensaml-1.1b	Apache License 2.0
+- openssh-5.1p1-41.57.1	BSD 3-Clause
+- OpenSSL 0.9.7a	BSD 3-Clause
+- openssl-0.9.8j-0.44.1
+- org.apache.jasper.glassfish-2.1.0.v201110031002.jar	BSD 3-Clause
 (embedded in Jetty 7.6.4)
-org.apache.taglibs.standard.glassfish-	Apache License 2.0
-1.2.0.v201112081803.jar (embedded in Jetty 7.6.4)	Apache License 2.0
+- org.apache.taglibs.standard.glassfish-	Apache License 2.0
+- 1.2.0.v201112081803.jar (embedded in Jetty 7.6.4)	Apache License 2.0
+- Perf4J-0.9.16	
+- Apache License 2.0
+- perl-DBD-Pg-2.10.3-1.20.1	GPL 2.0
+- php5-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-5.2.14-0.7.30.48.1	The PHP License, version 3.1.
+- php5-ctype-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-ctype-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-dom-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-dom-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-hash-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-hash-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-iconv-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-iconv-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-json-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-json-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-suhosin-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-tokenizer-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-tokenizer-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-xmlreader-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-xmlreader-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- php5-xmlwriter-5.2.14-0.7.30.40.1	The PHP License, version 3.1
+- php5-xmlwriter-5.2.14-0.7.30.48.1	The PHP License, version 3.1
+- Play Framework-1.2.5	Apache License 2.0
+- postgresql-8.3.18-0.3.1	BSD 3-Clause
+- postgresql-libs-8.3.18-0.3.1	BSD 3-Clause
+- postgresql-server-8.3.18-0.3.1	BSD 3-Clause
+- protobuf-2.4.1	New BSD License
+- Python (version 2.7.3)	Python license agreement
+- python-argparse-1.2.1-2.5.65	Apache License 2.0
+- python-chardet-2.1.1-24.1.x86_64.rpm	LGPL 2.1
+- python-cjson-1.0.5-2.1	LGPL 2.0
+- python-gevent-0.13.7-9.3.x86_64.rpm	BSD style license
+- python-greenlet-0.3.1-4.3.x86_64.rpm	BSD style license
+- python-grequests-0.1.0-6.2.x86_64.rpm	BSD style license
+- python-oauthlib-0.1.3-5.3.x86_64.rpm	BSD style license
+- python-ordereddict-1.1-1.1	MIT
+- python-pyasn1-0.1.4-18.1.x86_64.rpm	BSD style license
+- Python-RSA-3.0.1	Apache License 2.0
+- python-unittest2-0.5.1-9.1	Python license agreement
 
-Perf4J-0.9.16	
-Apache License 2.0
-perl-DBD-Pg-2.10.3-1.20.1	GPL 2.0
-php5-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-5.2.14-0.7.30.48.1	The PHP License, version 3.1.
-php5-ctype-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-ctype-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-dom-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-dom-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-hash-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-hash-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-iconv-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-iconv-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-json-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-json-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-suhosin-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-tokenizer-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-tokenizer-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-xmlreader-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-xmlreader-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-php5-xmlwriter-5.2.14-0.7.30.40.1	The PHP License, version 3.1
-php5-xmlwriter-5.2.14-0.7.30.48.1	The PHP License, version 3.1
-Play Framework-1.2.5	Apache License 2.0
-postgresql-8.3.18-0.3.1	BSD 3-Clause
-postgresql-libs-8.3.18-0.3.1	BSD 3-Clause
-postgresql-server-8.3.18-0.3.1	BSD 3-Clause
-protobuf-2.4.1	New BSD License
-Python (version 2.7.3)	Python license agreement
-python-argparse-1.2.1-2.5.65	Apache License 2.0
-python-chardet-2.1.1-24.1.x86_64.rpm	LGPL 2.1
-python-cjson-1.0.5-2.1	LGPL 2.0
-python-gevent-0.13.7-9.3.x86_64.rpm	BSD style license
-python-greenlet-0.3.1-4.3.x86_64.rpm	BSD style license
-python-grequests-0.1.0-6.2.x86_64.rpm	BSD style license
-python-oauthlib-0.1.3-5.3.x86_64.rpm	BSD style license
-python-ordereddict-1.1-1.1	MIT
-python-pyasn1-0.1.4-18.1.x86_64.rpm	BSD style license
-Python-RSA-3.0.1	Apache License 2.0
-python-unittest2-0.5.1-9.1	Python license agreement
-
-quartz-1.6.1	Apache License 2.0
-Requests-0.13.6	ISC License
-Restlet 1.1.1	LGPL 2.1
-Restlet-1.1.1	LGPL 2.1
+- quartz-1.6.1	Apache License 2.0
+- Requests-0.13.6	ISC License
+- Restlet 1.1.1	LGPL 2.1
+- Restlet-1.1.1	LGPL 2.1
  
 
-RestSharp 104.1	Apache License 2.0
-Selenium 2.3.0	Eclipse Public License 1.0
-Simple Logging Facade for Java 1.6.1	MIT License
-slf4j 1.6.4	MIT
-slf4j-api-1.7.2.jar (dependency on Cassandra 1.2.3)	MIT License
-slf4j-log4j12-1.5.8	Similar to MIT License
-slf4j-log4j12-1.7.2.jar (dependency on Cassandra 1.2.3)	MIT License
+- RestSharp 104.1	Apache License 2.0
+- Selenium 2.3.0	Eclipse Public License 1.0
+- Simple Logging Facade for Java 1.6.1	MIT License
+- slf4j 1.6.4	MIT
+- slf4j-api-1.7.2.jar (dependency on Cassandra 1.2.3)	MIT License
+- slf4j-log4j12-1.5.8	Similar to MIT License
+- slf4j-log4j12-1.7.2.jar (dependency on Cassandra 1.2.3)	MIT License
 
-smartwizard 2.0	Creative Commons Attribution-
-ShareAlike 3.0 Unported License.
+- smartwizard 2.0	Creative Commons Attribution-
+- ShareAlike 3.0 Unported License.
 
-SnakeYAML 1.6	
-Apache License 2.0
-snappy-1.1.0-1	BSD License
-Snappy-Java 1.0.4.1	Apache License 2.0
-snaptree-0.1.jar (dependency on Cassandra 1.2.3)	Snaptree License
-SNMP++ 3.2.23	BSD style license
-Speed4j 0.9	Apache License 2.0
-Spring Framework 3.1.0	Apache License 2.0
-Spring LDAP 1.3.1.RELEASE	Apache License 2.0
-Spring  LDAP-1.3.1.RELEASE	Apache License 2.0
-Spring Security 3.1.0	Apache License 2.0
-Spring  Security-3.1.0.RELEASE	Apache License 2.0
-Spring Web Flow-2.3.0.RELEASE	Apache License 2.0
-spring-aop-3.1.1	Apache License 2.0
-spring-asm-3.1.1	Apache License 2.0
-Spring-beans (Spring Framework)-3.0.5.RELEASE	Apache License 2.0
-spring-beans-3.1.1	Apache License 2.0
-spring-binding-2.3.0	Apache License 2.0
-Spring-context (Spring Framework)-3.0.5.RELEASE	Apache License 2.0
-spring-context-3.1.1	Apache License 2.0
-spring-context-support-3.1.1	Apache License 2.0
-Spring-core (Spring Framework)-3.0.5.RELEASE	Apache License 2.0
-spring-core-3.1.1	Apache License 2.0
-spring-expression-3.1.1	Apache License 2.0
-spring-jdbc-3.1.1	Apache License 2.0
-spring-js-2.3.0	Apache License 2.0
-spring-js-resources-2.3.0	Apache License 2.0
-spring-ldap-core-1.3.1.RELEASE.jar	Apache License 2.0
-spring-orm-3.1.1.RELEASE	Apache License 2.0
-spring-tx-3.1.1.RELEASE	Apache License 2.0
-spring-web-3.1.1.RELEASE	Apache License 2.0
-spring-webmvc-3.1.1.RELEASE	Apache License 2.0
-Stax API-1.0-2	Apache License 2.0
-struts2-core 2.0.11	Apache License 2.0
-sysstat-8.1.5-7.32.1	GPL 2.0
-tcpdump-3.9.8-1.21	BSD 3-Clause
-telnet 1.2 (SUSE LINUX)	BSD 3-Clause
-Testng (version 6.5.1)	Apache License 2.0
-TestNG 6.5.2	Apache License 2.0
- 
+- SnakeYAML 1.6	Apache License 2.0
+- snappy-1.1.0-1	BSD License
+- Snappy-Java 1.0.4.1	Apache License 2.0
+- snaptree-0.1.jar (dependency on Cassandra 1.2.3)	Snaptree License
+- SNMP++ 3.2.23	BSD style license
+- Speed4j 0.9	Apache License 2.0
+- Spring Framework 3.1.0	Apache License 2.0
+- Spring LDAP 1.3.1.RELEASE	Apache License 2.0
+- Spring  LDAP-1.3.1.RELEASE	Apache License 2.0
+- Spring Security 3.1.0	Apache License 2.0
+- Spring  Security-3.1.0.RELEASE	Apache License 2.0
+- Spring Web Flow-2.3.0.RELEASE	Apache License 2.0
+- spring-aop-3.1.1	Apache License 2.0
+- spring-asm-3.1.1	Apache License 2.0
+- Spring-beans (Spring Framework)-3.0.5.RELEASE	Apache License 2.0
+- spring-beans-3.1.1	Apache License 2.0
+- spring-binding-2.3.0	Apache License 2.0
+- Spring-context (Spring Framework)-3.0.5.RELEASE	Apache License 2.0
+- spring-context-3.1.1	Apache License 2.0
+- spring-context-support-3.1.1	Apache License 2.0
+- Spring-core (Spring Framework)-3.0.5.RELEASE	Apache License 2.0
+- spring-core-3.1.1	Apache License 2.0
+- spring-expression-3.1.1	Apache License 2.0
+- spring-jdbc-3.1.1	Apache License 2.0
+- spring-js-2.3.0	Apache License 2.0
+- spring-js-resources-2.3.0	Apache License 2.0
+- spring-ldap-core-1.3.1.RELEASE.jar	Apache License 2.0
+- spring-orm-3.1.1.RELEASE	Apache License 2.0
+- spring-tx-3.1.1.RELEASE	Apache License 2.0
+- spring-web-3.1.1.RELEASE	Apache License 2.0
+- spring-webmvc-3.1.1.RELEASE	Apache License 2.0
+- Stax API-1.0-2	Apache License 2.0
+- struts2-core 2.0.11	Apache License 2.0
+- sysstat-8.1.5-7.32.1	GPL 2.0
+- tcpdump-3.9.8-1.21	BSD 3-Clause
+- telnet 1.2 (SUSE LINUX)	BSD 3-Clause
+- Testng (version 6.5.1)	Apache License 2.0
+- TestNG 6.5.2	Apache License 2.0
+- The Grinder thrift-python-internal-only-0.7.0.zip (dependency on	Grinder License Cassandra 1.2.3)	Apache License 2.0
+- Universal Encoding Detector library-2.1.0	LGPL 2.1
+- vijava-5.1	BSD license
+- xalan-c 1.10	Apache License 2.0
+- xerces-c 2.7.0	Apache License 2.0
+- xml security-1.4.2	Apache License 2.0
+- XML Signature-1.0.	Apache License 2.0
+- xml-apis-1.0.b2	Apache License 2.0
+- Xml-commons API-1.0.b2	Apache License 2.0
+- xstream 1.43	BSD Style License
 
-The Grinder
-thrift-python-internal-only-0.7.0.zip (dependency on	Grinder License
-Cassandra 1.2.3)	Apache License 2.0
+- xwork 2.0.4	OpenSymphony Software License, Version 1.1
 
-Universal Encoding Detector library-2.1.0	
-LGPL 2.1
-vijava-5.1	BSD license
-xalan-c 1.10	Apache License 2.0
-xerces-c 2.7.0	Apache License 2.0
-xml security-1.4.2	Apache License 2.0
-XML Signature-1.0.	Apache License 2.0
-xml-apis-1.0.b2	Apache License 2.0
-Xml-commons API-1.0.b2	Apache License 2.0
-xstream 1.43	BSD Style License
-
-xwork 2.0.4	OpenSymphony Software License,
-Version 1.1
-
-xz-1.0.jar	
-Public Domain
-zypper-1.3.21-0.3.1	GPL 2.0
-Smooks 1.5.1	LGPL 1.1
-ViPR Controller Java Client 1.1	Apache 2.0 License
-jQuery 1.11.0	MIT License
-Play Framework 1.2.7	Apache License 2.0
-FullCalendar (jquery plugin) 1.6.4	MIT License
-libpq5 9.1.12-0.3.1	PostgreSQL
-sudo 1.7.6p2-0.21.1	BSD 3-Clause
-Font Awesome 4.0.3	SIL OFL 1.1 & MIT
-Apache httpcomponents 4.3.3	Apache 2.0
-Docker-io-0.11.0-1 0.11.0	Apache 2.0
-Docker-java-0.8.3 0.8.3	Apache 2.0
-Docker-registry-0.6.7-1  0.6.7	Apache 2.0
-Nextdoor-service-registry  0.2.9	Apache 2.0
-libopenssl1-devel1.0.1g-0.16.1	OpenSSL
-libopenssl1_0_0  1.0.1g-0.16.1	OpenSSL
-openssl1 1.0.1g-0.16.1	OpenSSL
-python-request 2.3.0	Apache 2.0
-jquery FullCalendar 2.1.0
-moment.js 2.8.2
-jquery UI 1.11.1
-press 1.0.36
-Apache Cassandra 2.0.10
-Apache Zookeeper 3.4.6
-Apache Curator 2.6.0
-Apache Curator 2.7.0
-Netflix Astyanax 1.56.49
-Keepalived 1.2.13
-JmDNS 3.4.1
-Bootstrap 2.3.2
-Bootstrap 3.1.1	jQuery MIT moment.js MIT jQuery MIT  MIT
-Apache 2.0
-Apache 2.0
-Apache 2.0
-Apache 2.0
-Apache 2.0 GPLv2
-Apache 2.0
-Apache 2.0 MIT
+- xz-1.0.jar	Public Domain
+- zypper-1.3.21-0.3.1	GPL 2.0
+- Smooks 1.5.1	LGPL 1.1
+- ViPR Controller Java Client 1.1	Apache 2.0 License
+- jQuery 1.11.0	MIT License
+- Play Framework 1.2.7	Apache License 2.0
+- FullCalendar (jquery plugin) 1.6.4	MIT License
+- libpq5 9.1.12-0.3.1	PostgreSQL
+- sudo 1.7.6p2-0.21.1	BSD 3-Clause
+- Font Awesome 4.0.3	SIL OFL 1.1 & MIT
+- Apache httpcomponents 4.3.3	Apache 2.0
+- Docker-io-0.11.0-1 0.11.0	Apache 2.0
+- Docker-java-0.8.3 0.8.3	Apache 2.0
+- Docker-registry-0.6.7-1  0.6.7	Apache 2.0
+- Nextdoor-service-registry  0.2.9	Apache 2.0
+- libopenssl1-devel1.0.1g-0.16.1	OpenSSL
+- libopenssl1_0_0  1.0.1g-0.16.1	OpenSSL
+- openssl1 1.0.1g-0.16.1	OpenSSL
+- python-request 2.3.0	Apache 2.0
+- jquery FullCalendar 2.1.0
+- moment.js 2.8.2
+- jquery UI 1.11.1
+- press 1.0.36
+- Apache Cassandra 2.0.10
+- Apache Zookeeper 3.4.6
+- Apache Curator 2.6.0
+- Apache Curator 2.7.0
+- Netflix Astyanax 1.56.49
+- Keepalived 1.2.13
+- JmDNS 3.4.1
+- Bootstrap 2.3.2
+- Bootstrap 3.1.1	jQuery MIT moment.js MIT jQuery MIT  MIT
+- Apache 2.0
+- Apache 2.0 GPLv2
+- Apache 2.0 MIT
  
 Open source licenses in CoprHD 2.3 Beta
 
@@ -1003,4 +988,16 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL)Version 1.1
 A.	Any file that results from an addition to, deletion from or modification of the contents of a file containing
 B.	Any new file that contains any part of the Original Software or previous Modification; or C. Any new file that is contributed or otherwise made available under the terms of this License.
 1.10.	“Original Software” means the Source Code and Executable form of computer software code that is
-1.11.	“Patent Claims” means any patent claim(s), now owned or hereafter acquired, including withou
+1.11.	“Patent Claims” means any patent claim(s), now owned or hereafter acquired, including without limitation,
+1.12.	“Source Code” means (a) the common form of computer software code in which modifications are made
+1.13.	“You” (or “Your”) means an individual or a legal entity exercising rights under, and complying with all of the
+terms of, this License. For legal entities, “You” includes any entity which controls, is controlled by, or is under
+2.	License Grants.
+2.1.	The Initial Developer Grant.
+ 
+Conditioned upon Your compliance with Section 3.1 below and subject to third party intellectual property claims,
+(a)	under intellectual property rights (other than patent or trademark) Licensable by Initial Developer, to use,
+(b)	under Patent Claims infringed by the making, using or selling of Original Software, to make, have made, use,
+(c)	The licenses granted in Sections 2.1(a) and (b) are effective on the date Initial Developer first distributes or
+(d)	Notwithstanding Section 2.1(b) above, no patent license is granted: (1) for code that You delete from the
+2.2.	Contributor 
